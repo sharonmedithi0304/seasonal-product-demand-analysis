@@ -1,0 +1,11 @@
+SEASONAL PRODUCT DEMAND ANALYSIS
+
+Primary comparison: January-November 2010 versus January-November 2011.
+
+The candidate screening rules require at least 10 distinct invoices in each year, the same peak month in both years, a peak-to-average monthly quantity ratio of at least 1.5 in each year, and at least 10 distinct invoices during each peak month.
+
+The analysis identified 292 recurring-peak candidates from 2,358 eligible products. November was the most frequent peak month, with 156 candidates. These figures are expected results and must pass the validation checks above.
+
+These are exploratory recurring-peak candidates, not statistically proven long-term seasonal products. The data contains only two comparable annual windows.
+
+The primary analysis excludes non-positive quantities and cancellation-coded invoices, so it describes retained positive-quantity transactions rather than net sales after returns. Zero-price rows were retained and counted. Missing customer identifiers were allowed because customer-level identification is not required for product-level analysis.

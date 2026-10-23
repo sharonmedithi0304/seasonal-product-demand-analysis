@@ -1,0 +1,7 @@
+Cleaning Step,Rows Before,Rows Removed,Rows After
+Original dataset,1067371,0,1067371
+Exact duplicate removal,1067371,34335,1033036
+Cancelled invoice removal,1033036,19104,1013932
+Non-positive quantity removal,1013932,3393,1010539
+Negative price removal,1010539,5,1010534
+Missing description removal,1010534,1642,1008892

@@ -1,0 +1,17 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Keep large/original dataset files out of Git
+data/raw/*
+!data/raw/.gitkeep
+*.xlsx
+
+# Temporary generated bundles; curated figures/tables stay tracked
+outputs/EDAV_Final_Outputs.zip
+.DS_Store
+Thumbs.db
+~$*
