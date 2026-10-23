@@ -1,6 +1,30 @@
-# Seasonal Product Demand Analysis
+# 🛒 Seasonal Product Demand Analysis 🌶️
 
-A reproducible Python data-analysis project that investigates recurring monthly product-demand peaks in the **UCI Online Retail II** transaction dataset. The workflow is designed for a course-end EDAV project and a public portfolio repository.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge" alt="Data Visualization" />
+</p>
+
+---
+
+## 🎓 Student Details
+
+| **Detail** | **Information** |
+|:---|:---|
+| **Name** | Sharon Medithi |
+| **Roll Number** | 160125737104 |
+| **Section** | IT-2 |
+| **Semester** | 3 |
+| **Department** | Information Technology |
+| **Course** | Exploratory Data Analysis and Visualization |
+| **Course Code** | 22ADC31N |
+| **Academic Year** | 2026–27 |
+| **College** | Chaitanya Bharathi Institute of Technology (CBIT) |
+
+---
+
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sharonmedithi0304/seasonal-product-demand-analysis/blob/main/notebooks/Seasonal_Product_Demand_Analysis.ipynb)
 
